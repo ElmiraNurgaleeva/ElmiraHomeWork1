@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Напишите программу, которая на вход принимает число и выдает его квадрат (число умноженное на смо себя) 
+//Например, 4-> 16, -3->9, -7 -> 49
 Console.WriteLine("1313Hello, World!");
