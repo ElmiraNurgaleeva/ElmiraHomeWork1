@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Напишите программу, которая на вход принимает трехзначное число 
+//и на выходе показывает последнюю цифру этого числа  Например, 456  -> 6
+
+Console.Write("Введите число  ->  ");
+int num = int.Parse(Console.ReadLine());
+Console.WriteLine(num % 10);
