@@ -8,7 +8,7 @@ int Max(int arg1, int arg2, int arg3)
     return result;
 }
 //   индекс    0  1 2  3 4  5 6  7  8
-int[] array = {11,21,3,4,41,61,7,8,19};
+int[] array = {11,21,3,4,41,61,7,8,211};
 array[0] = 12;
 Console.Write("Под данным индексом число ");
 Console.WriteLine(array[4]);
